@@ -12,7 +12,7 @@ Here are some of my notable projects:
   - A web application that allows users to search for movies using keywords. It leverages the OMDB API for fetching movie details and ratings, offering a sleek and responsive design.
 
 - **[Project 2: Portfolio Website](https://abduls-dev.github.io/Portfolio)**
-  - My personal portfolio website, showcasing my skills, projects, and professional background. Built with JavaScript and styled-components, it features a minimalistic design with vibrant colors.
+  - My personal portfolio website, showcasing my skills, projects, and professional background. Built with JavaScript and styled components, it features a minimalistic design with vibrant colors.
 
 - **[Project 3: Sushi-Web](https://abduls-dev.github.io/Sushi-Web)**
   - An elegant sushi restaurant website featuring a responsive design and interactive menu. This project uses HTML, CSS, and JavaScript, focusing on user-friendly navigation and appealing visual aesthetics.

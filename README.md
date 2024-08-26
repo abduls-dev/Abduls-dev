@@ -34,7 +34,7 @@ Here are some of my notable projects:
 ## 📫 Connect with Me
 
 - **LinkedIn:** [M Abdullah](https://www.linkedin.com/in/m-abdullah-2b4986241/)
-- **Email:** [Gmail](contact.abdullahsaleem@gmail.com)
+-  **Email:** [Gmail](mailto:contact.abdullahsaleem@gmail.com)
 
 I’m always eager to connect with fellow developers and explore new opportunities. If you’re interested in collaborating or just want to chat about tech, don’t hesitate to reach out!
 
